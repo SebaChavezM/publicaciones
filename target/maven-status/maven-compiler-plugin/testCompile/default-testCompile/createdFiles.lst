@@ -1,0 +1,6 @@
+com\example\publicaciones\controller\ComentarioControllerTest.class
+com\example\publicaciones\model\PublicacionTest.class
+com\example\publicaciones\controller\PublicacionControllerTest.class
+com\example\publicaciones\service\PublicacionServiceImplTest.class
+com\example\publicaciones\PublicacionesApplicationTests.class
+com\example\publicaciones\controller\CalificacionControllerTest.class
